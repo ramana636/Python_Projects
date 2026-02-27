@@ -56,15 +56,3 @@ def game1(num):
         else:
             print("Enter a valid 4 digit number without repitition")
 main()
-                    
-             
-        
-    
-    
-        
-
-        
-
-        
-        
-    
